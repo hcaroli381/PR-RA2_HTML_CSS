@@ -16,38 +16,30 @@ El primer eje se alinea con justify-content, lo ponemos en center tambien.
 ---
 ## 1C
 <img width="1919" height="958" alt="imagen" src="https://github.com/user-attachments/assets/3590235f-cb6b-4cd4-8c39-bf3bba0df760" />
-.site-header {
-  display: grid;
-    grid-template-rows: 100px auto 200px;
-    justify-content: center;
-    align-items: center;
-    gap: 30px;
-}
+<img width="417" height="177" alt="imagen" src="https://github.com/user-attachments/assets/fcaf72a5-dad7-44d7-a4c8-f9138bfea68f" />
+
 Creamos con grid dos filas distintas para despues alinear los dos ejes al centro, la separacion la conseguimos con "gap"
 
 ---
 ## 1D
 <img width="1915" height="956" alt="imagen" src="https://github.com/user-attachments/assets/9c41e303-fc2d-44ce-b46c-2e8fe6a4c59e" />
+CSS:
+<img width="504" height="370" alt="imagen" src="https://github.com/user-attachments/assets/d254fb36-1cbb-4a24-87d3-71a66bb92d67" />
 
-.site-header {
-    display: grid;
-    grid-template-rows: 100px auto 200px;
-    justify-content: center;
-    align-items: center;
-    gap: 30px;
-  margin: 20px;
-  padding: 20px;
-  color: aquamarine;
-  text-shadow: 4px 4px 4px coral;
-  background-color: cadetblue;
-  border-radius:10px ;
-}
 Separamos con el resto del contenido con margin, de forma interna con padding. Aplicamos una sombra con text-shadow. Con background-color le damos un color de fondo distinto al del resto del HTML. Border-radius nos servirá para darle ese aspecto redondeado.
 
 ---
 ## 2A
 Añadimos el botón dentro del header :
 <img width="1008" height="457" alt="imagen" src="https://github.com/user-attachments/assets/375a3781-9885-4210-b8cf-3470a7be852d" />
+
+## 2B
+Mi header queda así : 
+<img width="1852" height="745" alt="imagen" src="https://github.com/user-attachments/assets/6dc8a3cf-4a5b-457d-bfd1-2a30df250292" />
+
+Cambio de CSS para ordenar nuestro header :
+<img width="717" height="853" alt="imagen" src="https://github.com/user-attachments/assets/0dd486cc-1b0d-48f2-abb2-45aa5730b414" />
+
 
 ---
 ## 3A, 3B y 3C
