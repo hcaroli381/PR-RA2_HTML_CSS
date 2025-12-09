@@ -14,6 +14,18 @@ Con flex :
 El primer eje se alinea con justify-content, lo ponemos en center tambien.
 
 ---
+## 1C
+<img width="1919" height="958" alt="imagen" src="https://github.com/user-attachments/assets/3590235f-cb6b-4cd4-8c39-bf3bba0df760" />
+.site-header {
+  display: grid;
+    grid-template-rows: 100px auto 200px;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+Creamos con grid dos filas distintas para despues alinear los dos ejes al centro, la separacion la conseguimos con "gap"
+
+---
 ## 1D
 .site-header {
   display: flex;
