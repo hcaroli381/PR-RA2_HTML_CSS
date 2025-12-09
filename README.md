@@ -45,7 +45,12 @@ Creamos con grid dos filas distintas para despues alinear los dos ejes al centro
 Separamos con el resto del contenido con margin, de forma interna con padding. Aplicamos una sombra con text-shadow. Con background-color le damos un color de fondo distinto al del resto del HTML. Border-radius nos servirá para darle ese aspecto redondeado.
 
 ---
-## 3a, 3B y 3C
+## 2A
+Añadimos el botón dentro del header :
+<img width="1008" height="457" alt="imagen" src="https://github.com/user-attachments/assets/375a3781-9885-4210-b8cf-3470a7be852d" />
+
+---
+## 3A, 3B y 3C
 Cuando pasamos por encima de la imagen esta se hace más grande, y genera un sombreado azul, gracias a colocarlo en CSS con :hover
 <img width="1918" height="893" alt="imagen" src="https://github.com/user-attachments/assets/c612043f-cec5-40a1-a90a-2eaa64fc83db" />
 Cuando clicamos encima de ella nos manda a otra pestaña con el tamaño original de la misma:
