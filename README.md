@@ -27,14 +27,19 @@ Creamos con grid dos filas distintas para despues alinear los dos ejes al centro
 
 ---
 ## 1D
+<img width="1915" height="956" alt="imagen" src="https://github.com/user-attachments/assets/9c41e303-fc2d-44ce-b46c-2e8fe6a4c59e" />
+
 .site-header {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    display: grid;
+    grid-template-rows: 100px auto 200px;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
   margin: 20px;
   padding: 20px;
   color: aquamarine;
   text-shadow: 4px 4px 4px coral;
   background-color: cadetblue;
+  border-radius:10px ;
 }
-Separamos con el resto del contenido con margin, de forma interna con padding. Aplicamos una sombra con text-shadow. Con background-color le damos un color de fondo distinto al del resto del HTML.
+Separamos con el resto del contenido con margin, de forma interna con padding. Aplicamos una sombra con text-shadow. Con background-color le damos un color de fondo distinto al del resto del HTML. Border-radius nos servirá para darle ese aspecto redondeado.
