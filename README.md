@@ -32,10 +32,12 @@ Añadimos el botón dentro del header :
 
 ## 2B
 Mi header queda así : 
-<img width="1852" height="745" alt="imagen" src="https://github.com/user-attachments/assets/6dc8a3cf-4a5b-457d-bfd1-2a30df250292" />
+<img width="1896" height="959" alt="imagen" src="https://github.com/user-attachments/assets/20e4a60a-8c14-414b-8203-87a0d66b7592" />
+
 
 Cambio de CSS para ordenar nuestro header :
-<img width="717" height="853" alt="imagen" src="https://github.com/user-attachments/assets/0dd486cc-1b0d-48f2-abb2-45aa5730b414" />
+<img width="1304" height="848" alt="imagen" src="https://github.com/user-attachments/assets/8c283105-70c2-48de-a4d2-08218f2696c1" />
+
 
 
 ---
