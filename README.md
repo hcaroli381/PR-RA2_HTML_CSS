@@ -6,11 +6,8 @@ align-items centra el segundo eje y no el primero, no se centra nuestro H1
 ---
 ## 1B
 Con flex :
-.site-header {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} 
+<img width="613" height="165" alt="imagen" src="https://github.com/user-attachments/assets/9909961f-2357-45c7-b482-45cc2070c032" />
+
 El primer eje se alinea con justify-content, lo ponemos en center tambien.
 
 ---
