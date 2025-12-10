@@ -131,9 +131,8 @@ En cuanto a las locales, escogí las de la captura por tener algo de reserva.
 Me han gustado porque creo que tiene una relación bastante estrecha con el tema de mi web.
 ### 4.5 Menu lateral: breve explicacion
 #### ¿Qué ocurre?
-<video controls src="./images/20251210-1721-32.5550953.mp4" title="Title"></video> 
+![Video DOOM](https://github.com/user-attachments/assets/c5c1e11e-d050-427a-894b-16a7468bee10)
 Se abre nuestro menu lateral, que se usa para links locales.
-
 #### Que clase cambia
 Tanto side-menu como .open-menu
 #### Como se mueve el menú con CSS
