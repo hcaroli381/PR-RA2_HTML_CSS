@@ -70,27 +70,35 @@ Simplemente queria hacer una web con esta temática "infernal" tan característi
 
 ### 4.2 Evidencias de HTML5
 #### Header
-
+![alt text](image-1.png)
+Incluye tanto h1 como el menu de la introduccion.
 #### Main
-
+Nuestro main incluye el formulario, la galeria, la tabla y el hero.
 #### Section
-
+![alt text](image-3.png)
+Se utilizan para separar cada uno de los apartados de la web.
 #### Footer
-
+![alt text](image-4.png)
+Simplemente el pie de página.
 #### Menu superior
-
+Como mostré anteriormente se encuentra en el header, tiene enlaces a los distintos apartados.
 #### Menu lateral
-
+![alt text](image-5.png)
+Se encuentra entre header y main, tiene la misma funcion que el superior.
 #### Hero
-
+![alt text](image-6.png)
+Pequeña introduccion a mi tema.
 #### Tabla
-
+![alt text](image-7.png)
+Incluye los datos de diferentes juegos de la franquicia.
 #### Formulario
-
+![alt text](image-8.png)
+Distintas preguntas a responder sobre la opinion del usuario.
 #### Galeria
-
+![alt text](image-9.png)
+Las distintas fotos colocadas dentro de un section.
 #### Enlaces
-
+En ambos menús mostrados anteriormente, son locales.
 ### 4.3 Evidencias de CSS
 #### Selectores
 
