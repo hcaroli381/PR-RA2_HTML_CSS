@@ -101,39 +101,55 @@ Las distintas fotos colocadas dentro de un section.
 En ambos menús mostrados anteriormente, son locales.
 ### 4.3 Evidencias de CSS
 #### Selectores
-
-#### Evidencias de HTML5
-
-#### Grid
-
+![alt text](image-10.png)
+![alt text](image-11.png)
+He usado tanto etiquetas como h1/h2, como clases, IDs, destacando también la utilizacion de caracteristicas como :hover.
+#### Pseudoclases
+Use :hover, que sirve para realizar cambios en el estilo cuando el cursor está encima del elemento que queremos.
+#### Flex
+![alt text](image-12.png)
+Usé flex para ordenar la galeria, el menú no desplegable y el hero.
 #### Sombras
-
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
+Las sombras tanto de imagenes como de texto son clave en mi pagina web, le da ese toque demoniaco, además el brillo de las letras se lo da la sombra de un mismo color o parecido.
 #### Menus
-
+![alt text](image-16.png)
+![alt text](image-17.png)
+Menu ordenado con flex con el main nav, y menu lateral con las directrices que se nos dieron.
 #### Intencion
-
+Pues he intentado darle un estilo infernal a mi pagina web con colores rojizos, anaranjados y amarillos, se puede apreciar muy bien en la tabla.
 ### 4.4 Fuentes utilizadas
 
 #### Fuentes locales y online
-
+![alt text](image-18.png)
+![alt text](image-19.png)
+He usado la fuente "Macondo Swash Caps", me gustó porque estaba en el apartado de medievales, DOOM aparte de los demonios tiene una estética muy relacionada con lo medieval, así que opte por ella.
+En cuanto a las locales, escogí las de la captura por tener algo de reserva. 
 #### Intencion
-
+Me han gustado porque creo que tiene una relación bastante estrecha con el tema de mi web.
 ### 4.5 Menu lateral: breve explicacion
 #### ¿Qué ocurre?
+<video controls src="20251210-1721-32.5550953.mp4" title="Title"></video> 
+Se abre nuestro menu lateral, que se usa para links locales.
 
 #### Que clase cambia
-
+Tanto side-menu como .open-menu
 #### Como se mueve el menú con CSS
-
+![alt text](image-20.png)
+Asi lo hace el boton, con una transicion que le hace tener ese estilo.
+![alt text](image-21.png)
+Aqui esta su color, posicion, color al usar el puntero...
 ### 4.6 Conclusion
 #### Aprendizaje
-
+He aprendido algo de flex, hover, usar un buen estilo en las sombras de las imagenes, como hacer un banner (o intentarlo)...
 #### Ambitos a mejorar
-
+Me veo bastante verde a la hora de hacer una web al completo, debo mejorar en cosas que hacen que se vea poco profesional, como que al hacer zoom se rompa entera, que el fondo quede muy mal, no saber ordenar con flex, que el formulario sea poco profesional, etc.
 #### Que fue lo más complicado
-
+El uso de flex e intentar insertar un banner animado en el h1 fueron lo que más dificultades me dieron.
 #### Mi parte favorita
-
+La tabla creo que es sin duda la parte que mejor me quedó, reflejando el estilo que quería.
 
 
 
