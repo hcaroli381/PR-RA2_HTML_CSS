@@ -52,7 +52,7 @@ Cuando clicamos encima de ella nos manda a otra pestaña con el tamaño original
 
 ---
 ## 4
-### Introduccion
+### 4.1 Introduccion
 Mi pagina web tiene el videojuego DOOM, lo escogí porque es un videojuego al que le tengo mucho aprecio, además de ser un clásico de la industria, conocido por ser ejecutable en prácticamente cualquier dispositivo llegando incluso a cajeros automaticos o calculadoras. He incluido : 
 1. Un banner de presentacion
 
@@ -67,6 +67,65 @@ Mi pagina web tiene el videojuego DOOM, lo escogí porque es un videojuego al qu
 6. Un apartado de contacto
 
 Simplemente queria hacer una web con esta temática "infernal" tan característica del título.
+
+### 4.2 Evidencias de HTML5
+#### Header
+
+#### Main
+
+#### Section
+
+#### Footer
+
+#### Menu superior
+
+#### Menu lateral
+
+#### Hero
+
+#### Tabla
+
+#### Formulario
+
+#### Galeria
+
+#### Enlaces
+
+### 4.3 Evidencias de CSS
+#### Selectores
+
+#### Evidencias de HTML5
+
+#### Grid
+
+#### Sombras
+
+#### Menus
+
+#### Intencion
+
+### 4.4 Fuentes utilizadas
+
+#### Fuentes locales y online
+
+#### Intencion
+
+### 4.5 Menu lateral: breve explicacion
+#### ¿Qué ocurre?
+
+#### Que clase cambia
+
+#### Como se mueve el menú con CSS
+
+### 4.6 Conclusion
+#### Aprendizaje
+
+#### Ambitos a mejorar
+
+#### Que fue lo más complicado
+
+#### Mi parte favorita
+
 
 
 
